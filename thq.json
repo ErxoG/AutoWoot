@@ -2,7 +2,7 @@
   "room": "THQ",
   "author": "ErxoG",
   "icon": "",
-  "css": "https://dl.dropboxusercontent.com/s/qb1iibavixzrval/Geriausieji_temav6.css",
+  "css": "https://raw.githubusercontent.com/ErxoG/AutoWoot/main/teamhq.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
