@@ -1,0 +1,61 @@
+{
+  "room": "Geriausieji",
+  "author": "Dack",
+  "icon": "",
+  "css": "https://dl.dropboxusercontent.com/s/qb1iibavixzrval/Geriausieji_temav6.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": true,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": null,
+    "ambassador": null,
+    "host": "#8332a8",
+    "cohost": "#FF0000",
+    "manager": "#2a3fff",
+    "bouncer": "#1a781b",
+    "rdj": "#ffff00",
+    "subscriber": null,
+    "silversubscriber": null,
+    "friend": "#905BA1",
+    "user": null
+  },
+  "images": {
+    "background": "https://cdn.radiant.dj/rcs/bg/12.png",
+    "playback": "null",
+    "admin": "http://i.imgur.com/86smil1.png",
+    "ambassador": "http://i.imgur.com/2FZYIrH.png",
+    "host": "http://i.imgur.com/JMWUnwi.png",
+    "cohost": "https://i.imgur.com/aTjlkVw.png",
+    "manager": "https://i.imgur.com/fzzuPpb.png",
+    "bouncer": "https://i.imgur.com/zgqCYme.png",
+    "rdj": "http://i.imgur.com/hGj1SjW.png",
+    "subscriber": "http://i.imgur.com/gYyGQel.png",
+    "silversubscriber": "http://i.imgur.com/tm0SRdE.png"
+  },
+  "autocomplete": [],
+  "emotes": {
+    "4neko": "https://i.imgur.com/2NSEZr3.gif",
+    "4miku": "https://i.imgur.com/EXPqbIE.gif",
+    "issou": "https://cdn.discordapp.com/emojis/406178777140559884.png",
+    "jibat": "https://i.imgur.com/tLWUObI.png",
+    "liux": "https://i.imgur.com/R4Ekp2V.png",
+    "ziobrys": "https://i.imgur.com/7CuO3Lc.png",
+    "y": "https://i.imgur.com/WAP6ey8.png",
+    "+1": "https://i.imgur.com/WAP6ey8.png",
+    "wut": "https://i.imgur.com/lmKmfLi.png",
+    "baudejas": "https://i.imgur.com/ZoNBByR.png",
+    "zliumbia": "https://i.imgur.com/S8vAG32.png",
+    "lukutis": "https://i.imgur.com/AENJ276.png",
+    "saiba": "https://i.imgur.com/7RdotrT.gif",
+    "feelsdance": "https://i.imgur.com/V5NWWQx.gif",
+    "tusas": "https://i.imgur.com/aVpHTFv.gif",
+    "graudu": "https://i.imgur.com/eOqbRtc.gif"
+  }
+}
